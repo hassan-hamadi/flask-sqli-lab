@@ -1,2 +1,3 @@
-# flask-sqli-lab
-Dockerized vulnerable Flask web app demonstrating SQL injection with a PoC exploit and full walkthrough.
+# Flask SQLi Lab — Dockerized vulnerable web app (coming soon)
+
+A small Flask application intentionally vulnerable to classic SQL injection. Includes a PoC `exploit.py`, a Docker setup, and a detailed `walkthrough.md`.
